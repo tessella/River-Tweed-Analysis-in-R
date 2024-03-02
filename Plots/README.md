@@ -1,2 +1,3 @@
-This folder contains my plots for the River TWeed's basin generated from elevation data. 
+This folder contains my plots for the River Tweed's basin generated from elevation data. 
 These are my own work, not to be used or distributed without permission.
+Also contained within are the discharge vs year plots of the circled section in [this plot](https://github.com/tessella/River-Tweed-Analysis-in-R/blob/aefaf96a7362cbf8095d83a2d64e6c05d440b4cb/Plots/tweed_agg.png) for scenarios 1 and 2, who's data can be found [here](https://github.com/tessella/River-Tweed-Analysis-in-R/blob/aefaf96a7362cbf8095d83a2d64e6c05d440b4cb/Data/scenario1_yearly.csv) and [here](https://github.com/tessella/River-Tweed-Analysis-in-R/blob/aefaf96a7362cbf8095d83a2d64e6c05d440b4cb/Data/scenario2_yearly.csv), respectively.
